@@ -1,6 +1,6 @@
 # demo-zeroconf
 
-
+1st you need to install zeroconf by using pip3
 
 `pip3 install zeroconf`
 
